@@ -1,0 +1,15 @@
+Hi Grid Game is a personal project of mine, the aim is to control your player and defeat all enemies by collecting the sword before they kill you.
+
+Setup
+1. Open up the game by launching grid_game.py
+2. select size of map by filling in rows and columns
+
+How to play
+1. Use 'wasd' to move your character 'P' around the map
+2. Avoid enemies 'E' who will chase you
+3. Grab the 'sword' and then chase enemies to kill them and win
+
+Special Moves
+
+Flash
+Press F to drop a marker 'F' down. You can move afterwards and pressing F again teleports you to the Marker.

@@ -1,0 +1,6 @@
+EMPTY = 0
+PLAYER = "P"
+PLAYER_HEALTH = 10
+ENEMY = "E"
+SWORD = "S"
+FLASH = "F"
